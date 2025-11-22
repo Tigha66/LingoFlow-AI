@@ -1,0 +1,7 @@
+{
+  "name": "LingoFlow AI",
+  "description": "An AI-powered language tutor offering real-time conversation practice, instant grammar feedback, and adaptive lessons.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
